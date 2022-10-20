@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "737844492877",
+    "project_id": "kufar-c13c9",
+    "storage_bucket": "kufar-c13c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737844492877:android:11a78794716a79b17b7a04",
+        "android_client_info": {
+          "package_name": "com.altyyev.kufar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737844492877-hqc2hstidqhahm30m4q8klve0nm54rcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.altyyev.kufar",
+            "certificate_hash": "7b398b0d943e7a3362645fb9171d89c1f64b4d80"
+          }
+        },
+        {
+          "client_id": "737844492877-1refgqpg9tps9jc6kb2oeg6hr1glk1it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdj5g_owS1apUn-G7-xV2AhryA0rTYyrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737844492877-1refgqpg9tps9jc6kb2oeg6hr1glk1it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
